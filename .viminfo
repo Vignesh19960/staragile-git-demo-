@@ -25,23 +25,35 @@
 # Registers:
 
 # File marks:
-'0  4  12  ~/demo.java
-|4,48,4,12,1697522460,"~/demo.java"
+'0  6  0  ~/demo.java
+|4,48,6,0,1697524711,"~/demo.java"
+'1  4  12  ~/demo.java
+|4,49,4,12,1697522460,"~/demo.java"
+'2  4  12  ~/demo.java
+|4,50,4,12,1697522460,"~/demo.java"
 
 # Jumplist (newest first):
+-'  6  0  ~/demo.java
+|4,39,6,0,1697524711,"~/demo.java"
+-'  4  12  ~/demo.java
+|4,39,4,12,1697524620,"~/demo.java"
 -'  4  12  ~/demo.java
 |4,39,4,12,1697522460,"~/demo.java"
+-'  1  0  ~/demo.java
+|4,39,1,0,1697522082,"~/demo.java"
 -'  1  0  ~/demo.java
 |4,39,1,0,1697522082,"~/demo.java"
 
 # History of marks within files (newest to oldest):
 
 > ~/demo.java
-	*	1697522449	0
-	"	4	12
-	^	4	13
-	.	4	12
-	+	8	0
+	*	1697524708	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	10	0
 	+	2	22
 	+	3	34
 	+	4	12
+	+	3	34
+	+	6	0
